@@ -3,10 +3,7 @@
 # 9/24/2024
 # Lab 03 
 # Lab Section: 11
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Sources: Class powerpoint slides
 
 
 
